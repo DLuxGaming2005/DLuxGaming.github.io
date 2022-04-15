@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Website of Dani L.
 
 You can use the [editor on GitHub](https://github.com/DLuxGaming2005/DLuxGaming.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
